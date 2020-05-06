@@ -1,0 +1,46 @@
+.skills{
+    margin-top: 35px;
+    margin-right: 50px;
+}
+.skills h2{
+color:darkolivegreen;
+}
+.skills h4{
+    color: slategrey;
+}
+.skill{
+    margin-top: 50px;
+    border: 2px solid rgb(34, 82, 4);
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin-bottom: 70px;
+}
+.data{
+    margin-top: 30px;
+    border: 2px solid rgb(34, 82, 4);
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin-bottom: 20px;
+}
+#contact{
+    margin-top: 35px;
+    margin-right: 50px;
+}
+.home{
+    margin-top: 30px;
+    
+    border: 2px solid rgb(34, 82, 4);
+    border-radius: 10px;
+    background-color: azure;
+    margin-bottom: 20px;
+}
+.home h4{
+    color:lightseagreen;
+}
+.home h3{
+    color: lightseagreen;
+}
+nav ul li{
+    margin-right: 24px;
+}
+
